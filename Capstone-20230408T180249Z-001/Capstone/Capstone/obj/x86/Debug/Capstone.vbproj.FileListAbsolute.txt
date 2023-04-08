@@ -1,0 +1,43 @@
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\bin\Debug\Capstone.exe
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\bin\Debug\Capstone.pdb
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\bin\Debug\Capstone.xml
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.Form1.resources
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.Resources.resources
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.vbproj.GenerateResource.Cache
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.xml
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+c:\users\potolin\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.Form2.resources
+C:\Users\POTOLIN\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.Form3.resources
+C:\Users\POTOLIN\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.payroll.resources
+C:\Users\POTOLIN\documents\visual studio 2010\Projects\Capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.xml
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\bin\Debug\Capstone.xml
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.Form1.resources
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.Form2.resources
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.Form3.resources
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.payroll.resources
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.Resources.resources
+C:\Users\POTOLIN\Desktop\Capstone\Capstone\obj\x86\Debug\Capstone.vbproj.GenerateResource.Cache
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.xml
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\bin\Debug\Capstone.exe
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\bin\Debug\Capstone.pdb
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\bin\Debug\Capstone.xml
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.Form1.resources
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.Form2.resources
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.Form3.resources
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.payroll.resources
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.Resources.resources
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.vbproj.GenerateResource.Cache
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\bin\Debug\Capstone.exe.manifest
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\bin\Debug\Capstone.application
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.exe.manifest
+C:\Users\POTOLIN\Desktop\Capstone - Copy\Capstone\obj\x86\Debug\Capstone.application
